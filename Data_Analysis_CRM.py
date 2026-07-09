@@ -36,3 +36,4 @@ else:
 #---------------------------------------------------
 # Al verificar duplicados y nulos, comenzamos con su corrección y depuración.
 #---------------------------------------------------
+
